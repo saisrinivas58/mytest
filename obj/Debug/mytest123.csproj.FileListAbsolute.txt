@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\mytest123\mytest123\bin\Debug\mytest123.dll
+C:\Users\HP\source\repos\mytest123\mytest123\bin\Debug\mytest123.pdb
+C:\Users\HP\source\repos\mytest123\mytest123\obj\Debug\mytest123.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\mytest123\mytest123\obj\Debug\mytest123.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\mytest123\mytest123\obj\Debug\mytest123.dll
+C:\Users\HP\source\repos\mytest123\mytest123\obj\Debug\mytest123.pdb
+C:\Users\HP\source\repos\mytest123\mytest123\obj\Debug\mytest123.csproj.CopyComplete
+C:\Users\HP\source\repos\mytest123\mytest123\bin\Debug\nsoftware.IPWorks.NetStd.dll
